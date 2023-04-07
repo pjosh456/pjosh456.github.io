@@ -13,6 +13,42 @@
     </image>
     
     <item>
+      <title>Пост по прошедшей неделе.</title>
+      <link>https://example.com/post/post-1/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-1/</guid>
+      <description>&lt;h2 id=&#34;цели-прошедшей-недели&#34;&gt;Цели прошедшей недели&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Выполнить две лабораторные работы по предмету операционные системы.&lt;/li&gt;
+&lt;li&gt;Посетить все занятия (операционные системы, физкультура и модуль переводчика)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;процесс-выполнения&#34;&gt;Процесс выполнения&lt;/h2&gt;
+&lt;p&gt;Во вторник я посетил семинары по операционным системам, начал выполнение лабораторной работы №5, потом отправилась на занятия по физкультуре (где мы гуляла вокруг озера). В пятницу у меня были дистанционные занятия по английскому языку (модуль переводчика). Там я написал тест по прошедшим темам.&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;В результате выполнения двух лабораторных работ (5 и 6) я научилась работать с файловой системой Linux, а также ознакомилась с инструментами поиска файлов и фильтрации текстовых данных. Узнала, что такое перенаправление ввода/выводы и что такое конвейер. Продолжила освоение работы с терминалом Linux, изучение новых команд.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе.</title>
+      <link>https://example.com/post/post-2/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-2/</guid>
+      <description>&lt;h2 id=&#34;цели-прошедшей-недели&#34;&gt;Цели прошедшей недели&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Выполнить две лабораторные работы по предмету операционные системы.&lt;/li&gt;
+&lt;li&gt;Посетить все занятия (операционные системы, физкультура и модуль переводчика)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;процесс-выполнения&#34;&gt;Процесс выполнения&lt;/h2&gt;
+&lt;p&gt;Во вторник я посетил семинары по операционным системам, начал выполнение лабораторной работы №5, потом отправилась на занятия по физкультуре (где мы гуляла вокруг озера). В пятницу у меня были дистанционные занятия по английскому языку (модуль переводчика). Там я написал тест по прошедшим темам.&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;В результате выполнения двух лабораторных работ (5 и 6) я научилась работать с файловой системой Linux, а также ознакомилась с инструментами поиска файлов и фильтрации текстовых данных. Узнала, что такое перенаправление ввода/выводы и что такое конвейер. Продолжила освоение работы с терминалом Linux, изучение новых команд.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Управление версиями Git.</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -42,6 +78,30 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Каждая точка сохранения вашего проекта носит название коммит (commit). У каждого commit-a есть hash (уникальный id) и комментарий. Из таких commit-ов собирается ветка. Ветка - это история изменений. У каждой ветки есть свое название. Репозиторий может содержать в себе несколько веток, которые создаются из других веток или вливаются в них.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки Markdown.</title>
+      <link>https://example.com/post/post-3/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-3/</guid>
+      <description>&lt;h2 id=&#34;язык-разметки-markdown-что-такое&#34;&gt;Язык разметки Markdown что такое?&lt;/h2&gt;
+&lt;p&gt;это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах.&lt;/p&gt;
+&lt;h2 id=&#34;использование-markdown&#34;&gt;Использование Markdown&lt;/h2&gt;
+&lt;p&gt;Чтобы использовать Markdown, сначала ознакомьтесь с синтаксисом в CommonMark, а затем попробуйте его в Заметках или на Форуме Vivaldi.&lt;/p&gt;
+&lt;p&gt;Некоторые примеры Markdown:&lt;/p&gt;
+&lt;p&gt;Синтаксис	Результат
+&lt;em&gt;Курсив&lt;/em&gt;	Курсив
+&lt;strong&gt;Жирный&lt;/strong&gt;	Жирный
+&lt;del&gt;Зачеркнутый&lt;/del&gt;	Зачеркнутый
+&lt;a href=&#34;https://vivaldi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;	Ссылка
+Столбец 1 | Столбец 2 | Столбец 3 |
+:——- | :——: | ——: |
+Слева | По центру | Справа |
+Столбец 1	Столбец 2	Столбец 3
+Слева	По центру	Справа&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>

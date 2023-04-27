@@ -5,12 +5,60 @@
     <link>https://example.com/tag/%E5%BC%80%E6%BA%90/</link>
       <atom:link href="https://example.com/tag/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <description>开源</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>开源</title>
       <link>https://example.com/tag/%E5%BC%80%E6%BA%90/</link>
     </image>
+    
+    <item>
+      <title>Оформление отчёта.</title>
+      <link>https://example.com/post/post-5/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-5/</guid>
+      <description>&lt;h2 id=&#34;оформление-отчёта-что-такое&#34;&gt;Оформление отчёта что такое?&lt;/h2&gt;
+&lt;p&gt;Отчёт — структурированное отображение информации, формируемое на основе данных, хранящихся в информационной системе (ИС), и предоставляемое по запросу пользователя системы.&lt;/p&gt;
+&lt;h2 id=&#34;источники-отчетов&#34;&gt;Источники отчетов&lt;/h2&gt;
+&lt;p&gt;Предопределенные отчеты собирают данные из базы данных Endpoint Manager. Если создать пользовательский отчет, можно указать включение в отчет других доступных источников данных.
+Форматы отчетов&lt;/p&gt;
+&lt;p&gt;При запуске отчета его можно сохранить с использованием одного из следующих форматов:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;HTML: Стандартный формат HTML. В отчетах HTML можно щелкать диаграммы для просмотра подробной информации.
+Изображение: Файл точечного рисунка.
+PDF: Файл Adobe PDF.
+XML: Текстовый файл в формате XML.
+DOC: Формат Microsoft Word.
+XLS: Формат Microsoft Excel.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;При планировании отчета в средстве &amp;ldquo;Отчеты&amp;rdquo; (Reports) можно использовать следующие форматы:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;PDF: Файл Adobe PDF.
+XLS: Формат Microsoft Excel.
+DOC: Формат Microsoft Word.
+CSV: Файл данных с разделителями-запятыми.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе.</title>
+      <link>https://example.com/post/post-4/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-4/</guid>
+      <description>&lt;h2 id=&#34;цели-прошедшей-недели&#34;&gt;Цели прошедшей недели&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Выполнить одиннадцать лабораторные работы по предмету операционные системы.&lt;/li&gt;
+&lt;li&gt;Написать контрольную работу по математическии анализ.&lt;/li&gt;
+&lt;li&gt;Написать контрольную работу по дисскретная математика.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;процесс-выполнения&#34;&gt;Процесс выполнения&lt;/h2&gt;
+&lt;p&gt;Во вторник я сделал свою лабораторную работу по архитектуре компьютера, затем я написал контрольную работу по математическому анализу в среду, а также написал тест в четверг по дискретной математике в четверг.&lt;/p&gt;
+&lt;p&gt;Прошедшая неделя была для меня действительно очень насыщенной.&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;В результате выполнения лабораторной работы 11 на прошлой неделе под названием Программирование в команде Процессор ОС UNIX. Ветви и циклы Я изучил основы программирования оболочки UNIX. как написать больше сложные пакетные файлы с использованием логических управляющих конструкций и циклы.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по прошедшей неделе.</title>

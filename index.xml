@@ -51,8 +51,8 @@ DOC: Формат Microsoft Word.
 XLS: Формат Microsoft Excel.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;При планировании отчета в средстве &amp;ldquo;Отчеты&amp;rdquo; (Reports) можно использовать следующие форматы:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;PDF: Файл Adobe PDF.
-XLS: Формат Microsoft Excel.
+&lt;pre&gt;&lt;code&gt;XLS: Формат Microsoft Excel.
+PDF: Файл Adobe PDF.
 DOC: Формат Microsoft Word.
 CSV: Файл данных с разделителями-запятыми.
 &lt;/code&gt;&lt;/pre&gt;
@@ -68,8 +68,8 @@ CSV: Файл данных с разделителями-запятыми.
       <description>&lt;h2 id=&#34;цели-прошедшей-недели&#34;&gt;Цели прошедшей недели&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Выполнить одиннадцать лабораторные работы по предмету операционные системы.&lt;/li&gt;
-&lt;li&gt;Написать контрольную работу по математическии анализ.&lt;/li&gt;
 &lt;li&gt;Написать контрольную работу по дисскретная математика.&lt;/li&gt;
+&lt;li&gt;Написать контрольную работу по математическии анализ.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;процесс-выполнения&#34;&gt;Процесс выполнения&lt;/h2&gt;
 &lt;p&gt;Во вторник я сделал свою лабораторную работу по архитектуре компьютера, затем я написал контрольную работу по математическому анализу в среду, а также написал тест в четверг по дискретной математике в четверг.&lt;/p&gt;
@@ -103,6 +103,24 @@ CSV: Файл данных с разделителями-запятыми.
       <link>https://example.com/post/post-2/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post-2/</guid>
+      <description>&lt;h2 id=&#34;цели-прошедшей-недели&#34;&gt;Цели прошедшей недели&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Выполнить две лабораторные работы по предмету операционные системы.&lt;/li&gt;
+&lt;li&gt;Посетить все занятия (операционные системы, физкультура и модуль переводчика)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;процесс-выполнения&#34;&gt;Процесс выполнения&lt;/h2&gt;
+&lt;p&gt;Во вторник я посетил семинары по операционным системам, начал выполнение лабораторной работы №5, потом отправилась на занятия по физкультуре (где мы гуляла вокруг озера). В пятницу у меня были дистанционные занятия по английскому языку (модуль переводчика). Там я написал тест по прошедшим темам.&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;В результате выполнения двух лабораторных работ (5 и 6) я научилась работать с файловой системой Linux, а также ознакомилась с инструментами поиска файлов и фильтрации текстовых данных. Узнала, что такое перенаправление ввода/выводы и что такое конвейер. Продолжила освоение работы с терминалом Linux, изучение новых команд.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе.</title>
+      <link>https://example.com/post/post-6/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-6/</guid>
       <description>&lt;h2 id=&#34;цели-прошедшей-недели&#34;&gt;Цели прошедшей недели&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Выполнить две лабораторные работы по предмету операционные системы.&lt;/li&gt;
@@ -170,6 +188,26 @@ CSV: Файл данных с разделителями-запятыми.
 Слева | По центру | Справа |
 Столбец 1	Столбец 2	Столбец 3
 Слева	По центру	Справа&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования.</title>
+      <link>https://example.com/post/post-7/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-7/</guid>
+      <description>&lt;h2 id=&#34;научные-языки-программирования&#34;&gt;Научные языки программирования&lt;/h2&gt;
+&lt;p&gt;В компьютерном программировании , научный язык программирования может относиться к двум степеням той же концепции.&lt;/p&gt;
+&lt;p&gt;В широком смысле научный язык программирования - это язык программирования, который широко используется в вычислительной науке и вычислительной математике . В этом смысле C / C ++ и Python можно рассматривать как языки научного программирования.&lt;/p&gt;
+&lt;p&gt;В более широком смысле научный язык программирования - это язык, который разработан и оптимизирован для использования математических формул и матриц . Такие языки характеризуются не только наличием библиотек, выполняющих математические или научные функции, но и синтаксисом самого языка. Например, ни C ++, ни Python не имеют встроенных типов матриц или функций для матричной арифметики (сложение, умножение и т. Д.); вместо этого эта функция доступна через стандартные библиотеки. Языки научного программирования в более строгом смысле включают ALGOL , APL , Fortran , J , Julia ,Maple , MATLAB и R.&lt;/p&gt;
+&lt;p&gt;Языки научного программирования не следует путать с научным языком в целом, который свободно относится к более высоким стандартам точности, правильности и краткости, ожидаемым от практиков научного метода .&lt;/p&gt;
+&lt;h1 id=&#34;примеры&#34;&gt;Примеры&lt;/h1&gt;
+&lt;h2 id=&#34;линейная-алгебра&#34;&gt;Линейная алгебра&lt;/h2&gt;
+&lt;p&gt;Языки научного программирования предоставляют возможности для работы с линейной алгеброй. Работа с большими векторами и матрицами является ключевой особенностью этих языков, поскольку линейная алгебра закладывает основу математической оптимизации , которая, в свою очередь, позволяет использовать основные приложения, такие как глубокое обучение.&lt;/p&gt;
+&lt;h2 id=&#34;математическая-оптимизация&#34;&gt;Математическая оптимизация&lt;/h2&gt;
+&lt;p&gt;В научном языке программирования мы можем вычислять оптимум функции с синтаксисом, близким к математическому языку. В этом примере используется метод минимизации Ньютона . Современные языки научного программирования будут использовать автоматическое дифференцирование для вычисления градиентов и гессианов функции, заданной в качестве входных данных; ср. дифференцируемое программирование . Здесь для этой задачи выбрана автоматическая прямая дифференциация. Старые языки научного программирования, такие как почтенный Фортран, требовали от программиста передавать рядом с функцией, которая должна быть оптимизирована, функцию, которая вычисляет градиент, и функцию, которая вычисляет гессиан.&lt;/p&gt;
+&lt;p&gt;Чем больше знаний о функции, которую необходимо минимизировать, тем больше можно использовать более эффективные алгоритмы. Например, выпуклая оптимизация обеспечивает более быстрые вычисления, когда функция является выпуклой, квадратичное программирование обеспечивает более быстрые вычисления, когда функция не более чем квадратична по своим переменным, и линейное программирование, когда функция максимально линейна.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
@@ -311,27 +349,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>

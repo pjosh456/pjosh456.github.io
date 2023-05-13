@@ -276,7 +276,7 @@
 
   
 
-<meta name="description" content="An example of using the in-built project page." />
+<meta name="description" content="Here you can find out information about FAT." />
 
 
 
@@ -317,17 +317,17 @@
 <meta property="twitter:image" content="https://example.com/project/example/featured.jpg" />
 <meta property="og:site_name" content="Academic" />
 <meta property="og:url" content="https://example.com/project/example/" />
-<meta property="og:title" content="Example Project | Academic" />
-<meta property="og:description" content="An example of using the in-built project page." /><meta property="og:image" content="https://example.com/project/example/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Файловая система FAT | Academic" />
+<meta property="og:description" content="Here you can find out information about FAT." /><meta property="og:image" content="https://example.com/project/example/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2016-04-27T00:00:00&#43;00:00"
+      content="2012-05-27T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2016-04-27T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2012-05-27T00:00:00&#43;00:00">
   
 
 
@@ -353,14 +353,14 @@
     "@type": "WebPage",
     "@id": "https://example.com/project/example/"
   },
-  "headline": "Example Project",
+  "headline": "Файловая система FAT",
   
   "image": [
     "https://example.com/project/example/featured.jpg"
   ],
   
-  "datePublished": "2016-04-27T00:00:00Z",
-  "dateModified": "2016-04-27T00:00:00Z",
+  "datePublished": "2012-05-27T00:00:00Z",
+  "dateModified": "2012-05-27T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -375,7 +375,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "An example of using the in-built project page."
+  "description": "Here you can find out information about FAT."
 }
 </script>
 
@@ -397,7 +397,7 @@
 
 
   
-  <title>Example Project | Academic</title>
+  <title>Файловая система FAT | Academic</title>
 
   
   
@@ -839,7 +839,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Example Project</h1>
+  <h1>Файловая система FAT</h1>
 
   
 
@@ -857,7 +857,7 @@
     
       
     
-    Apr 27, 2016
+    May 27, 2012
   </span>
   
 
@@ -925,7 +925,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://twitter.com/princejosh456" target="_blank" rel="noopener">
     <i class="fab fa-twitter mr-1"></i>Follow</a>
 
 
@@ -935,9 +935,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 405px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 344px; max-height: 147px;">
   <div style="position: relative">
-    <img src="/project/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_720x2500_fit_q75_h2_lanczos.webp" width="720" height="405" alt="" class="featured-image">
+    <img src="/project/example/featured_hu9c8d71985a4b0be5e47d9cae2e965cd7_5194_720x2500_fit_q75_h2_lanczos.webp" width="344" height="147" alt="" class="featured-image">
     <span class="article-header-caption">Photo by rawpixel on Unsplash</span>
   </div>
 </div>
@@ -975,18 +975,40 @@
 <li>кластер, непригодный для использования (сбойный), отмечается числом FF7h (FFF7h). Таким образом, в таблице FAT кластеры, принадлежащие одному файлу, связываются в цепочки. Таблица размещения файлов хранится сразу после загрузочной записи логического диска, ее точное расположение описано в специальном поле в загрузочном секторе. Она хранится в двух идентичных экземплярах, которые следуют друг за другом. При разрушении первой копии таблицы используется вторая. В связи с тем, что FAT используется очень интенсивно при доступе к диску, она обычно загружается в ОП (в буфера ввода/вывода или кэш) и остается там настолько долго, насколько это возможно.</li>
 </ul>
 <p>Для просмотра и редактирования таблицы FAT можно использовать утилиту Disk Editor.</p>
-<p>Подробная информация о самом файле хранится в другой структуре, которая называется корневым каталогом. Каждый логический диск (Жесткий диск является физическим устройством, т.е. его можно физически установить, заменить или удалить. Для удобства работы жесткий диск разбивают на логические диски, которые являются виртуальными и их нельзя, что называется, потрогать руками. На одном жестком диске может быть:
-•   либо несколько логических дисков,
-•   либо один-единственный логический диск.) имеет свой корневой каталог (ROOT, англ. - корень). Корневой каталог описывает файлы и другие каталоги. Элементом каталога является дескриптор (описатель) файла. Дескриптор каждого файла и каталога включает его</p>
-<p>имя
-расширение
-дату создания или последней модификации
-время создания или последней модификации
-атрибуты (архивный, атрибут каталога, атрибут тома, системный, скрытый, только для чтения)
-длину файла (для каталога - 0)
-зарезервированное поле, которое не используется
-номер первого кластера в цепочке кластеров, отведенных файлу или каталогу; получив этот номер, операционная система, обращаясь к таблице FAT, узнает и все остальные номера кластеров файла.
-Итак, пользователь запускает файл на выполнение. Операционная система ищет файл с нужным именем, просматривая описания файлов в текущем каталоге. Когда найден требуемый элемент в текущем каталоге, операционная система считывает номер первого кластера данного файла, а затем по таблице FAT определяет остальные номера кластеров. Данные из этих кластеров считываются в оперативную память, объединяясь в один непрерывный участок. Операционная система передает управление файлу, и программа начинает работать.</p>
+<p>Подробная информация о самом файле хранится в другой структуре, которая называется корневым каталогом. Каждый логический диск (Жесткий диск является физическим устройством, т.е. его можно физически установить, заменить или удалить. Для удобства работы жесткий диск разбивают на логические диски, которые являются виртуальными и их нельзя, что называется, потрогать руками. На одном жестком диске может быть:</p>
+<ul>
+<li>
+<p>либо несколько логических дисков,</p>
+</li>
+<li>
+<p>либо один-единственный логический диск.) имеет свой корневой каталог (ROOT, англ. - корень). Корневой каталог описывает файлы и другие каталоги. Элементом каталога является дескриптор (описатель) файла. Дескриптор каждого файла и каталога включает его</p>
+</li>
+<li>
+<p>имя</p>
+</li>
+<li>
+<p>расширение</p>
+</li>
+<li>
+<p>дату создания или последней модификации</p>
+</li>
+<li>
+<p>время создания или последней модификации</p>
+</li>
+<li>
+<p>атрибуты (архивный, атрибут каталога, атрибут тома, системный, скрытый, только для чтения)</p>
+</li>
+<li>
+<p>длину файла (для каталога - 0)</p>
+</li>
+<li>
+<p>зарезервированное поле, которое не используется</p>
+</li>
+<li>
+<p>номер первого кластера в цепочке кластеров, отведенных файлу или каталогу; получив этот номер, операционная система, обращаясь к таблице FAT, узнает и все остальные номера кластеров файла.</p>
+</li>
+</ul>
+<p>Итак, пользователь запускает файл на выполнение. Операционная система ищет файл с нужным именем, просматривая описания файлов в текущем каталоге. Когда найден требуемый элемент в текущем каталоге, операционная система считывает номер первого кластера данного файла, а затем по таблице FAT определяет остальные номера кластеров. Данные из этих кластеров считываются в оперативную память, объединяясь в один непрерывный участок. Операционная система передает управление файлу, и программа начинает работать.</p>
 <p>Для просмотра и редактирования корневого каталога ROOT можно также использовать утилиту Disk Editor.</p>
 <h1 id="разновидности-fat">Разновидности FAT</h1>
 <p>Файловая система VFAT Файловая система VFAT (виртуальная FAT) впервые появилась в Windows for Workgroups 3.11 и была предназначена для файлового ввода/вывода в защищенном режиме. Используется эта файловая система в Windows 95. Поддерживается она также и в Windows NT 4. VFAT - это «родная» 32-разрядная файловая система Windows95. Ее контролирует драйвер VFAT.VXD. VFAT использует 32-разрядный код для всех файловых операций, может использовать 32-разрядные драйверы защищенного режима. НО, элементы таблицы размещения файлов остаются 12- или 16-разрядными, поэтому на диске используется та же структура данных (FAT). Т.е. формат таблицы VFAT такой же, как и формат FAT. VFAT наряду с именами «8.3» поддерживает длинные имена файлов. (Часто говорят, что VFAT - это FAT с поддержкой длинных имен). Основной недостаток VFAT - большие потери на кластеризацию при больших размерах логического диска и ограничения на сам размер логического диска.</p>
@@ -1007,15 +1029,17 @@ FAT32 - это полностью самостоятельная 32-разряд
 По-прежнему для длинного имени файла используется несколько дескрипторов.
 exFAT
 Обновленная файловая система созданная компанией microsoft на замену FAT32. Начала использоваться в Windows Vista SP1 и имеет максимальный размер файла 16 эксабайт (ЭБ), который равен 1 Эб = 1018 байтам. Совместима с Mac OS и Windows, является очень хорошей системой для обмена большими файлами.
-Минусы:
-•   Она не имеет никакой функциональности журналирования, в которой все изменения файлов на диске, отмечены в журнале прежде, чем они на самом деле выполнены.
-•   Не поддерживается Time Machine в Apple. Одним словом, вы не сможете сделать резервную копию от Apple с помощью программного обеспечения Time Machine.
-•   Очень сложная структура, требующая больше вычислительных мощностей. Плюсы:
-•   Перезаписывает меньшее количество раз один и тот же сектор, что важно для флешек, продлевая жизнь ячейкам памяти. Как известно флешки имеют N-количества перезаписей, потом выходят из строя.
-•   Большой лимит на размер файла 16 эксабайт.
-•   Размер кластера 32 мегабайта.
-•   Улучшено распределение свободного место, что уменьшает дефрагментацию</li>
+Минусы:</li>
 </ol>
+<ul>
+<li>Она не имеет никакой функциональности журналирования, в которой все изменения файлов на диске, отмечены в журнале прежде, чем они на самом деле выполнены.</li>
+<li>Не поддерживается Time Machine в Apple. Одним словом, вы не сможете сделать резервную копию от Apple с помощью программного обеспечения Time Machine.</li>
+<li>Очень сложная структура, требующая больше вычислительных мощностей. Плюсы:</li>
+<li>Перезаписывает меньшее количество раз один и тот же сектор, что важно для флешек, продлевая жизнь ячейкам памяти. Как известно флешки имеют N-количества перезаписей, потом выходят из строя.</li>
+<li>Большой лимит на размер файла 16 эксабайт.</li>
+<li>Размер кластера 32 мегабайта.</li>
+<li>Улучшено распределение свободного место, что уменьшает дефрагментацию</li>
+</ul>
 <h1 id="достоинства-и-недостатки-fat">Достоинства и недостатки FAT</h1>
 <p>Достоинства FAT:</p>
 <p>для эффективной работы требуется немного оперативной памяти;
@@ -1057,7 +1081,7 @@ exFAT
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F&amp;text=Example&#43;Project" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F&amp;text=%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F&#43;%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&#43;FAT" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1074,7 +1098,7 @@ exFAT
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F&amp;t=Example&#43;Project" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F&amp;t=%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F&#43;%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&#43;FAT" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1093,7 +1117,7 @@ exFAT
         
       
       <li>
-        <a href="mailto:?subject=Example%20Project&amp;body=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20FAT&amp;body=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1110,7 +1134,7 @@ exFAT
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F&amp;title=Example&#43;Project" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F&amp;title=%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F&#43;%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&#43;FAT" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1127,7 +1151,7 @@ exFAT
       
       
       <li>
-        <a href="whatsapp://send?text=Example&#43;Project%20https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F&#43;%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&#43;FAT%20https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1144,7 +1168,7 @@ exFAT
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F&amp;title=Example&#43;Project" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fproject%2Fexample%2F&amp;title=%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F&#43;%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&#43;FAT" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
